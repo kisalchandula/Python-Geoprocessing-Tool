@@ -2,7 +2,7 @@
 
 Given an any kind of Distribution Network this Automated tool can divide them into most appropriate boundary polygons covering it according to the User Requirements (Ex: - Feature length, Boundary Size).
 
-Input Pipeline layer --> Output Boundary layer  FGDB format /n
+Input Pipeline layer --> Output Boundary layer (File Geodatabase) 
 
 Threshold --> approximate pipeline length required
 
