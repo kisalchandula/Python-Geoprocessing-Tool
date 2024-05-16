@@ -2,7 +2,7 @@
 
 Given an any kind of Distribution Network this Automated tool can divide them into most appropriate boundary polygons covering it according to the User Requirements (Ex: - Feature length, Boundary Size).
 
-Input Pipeline layer --> Output Boundary layer  FGDB format
+Input Pipeline layer --> Output Boundary layer  FGDB format /n
 Threshold --> approximate pipeline length required
 Gap Distance --> maximum distance between two lines in single boundary polygon.
 
